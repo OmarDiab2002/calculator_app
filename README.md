@@ -1,6 +1,15 @@
 # calculator_app
 
-A new Flutter project.
+A sleek, modern calculator application built with Flutter featuring a dark theme and intuitive design.
+
+Features
+Basic Operations: Addition, subtraction, multiplication, division
+
+Clean Interface: Modern dark theme with professional styling
+
+Responsive Design: Works on mobile, tablet, and desktop
+
+Error Handling: Gracefully manages division by zero and invalid inputs
 
 ## Getting Started
 
