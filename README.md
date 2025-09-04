@@ -3,6 +3,7 @@
 A sleek, modern calculator application built with Flutter featuring a dark theme and intuitive design.
 
 Features
+
 Basic Operations: Addition, subtraction, multiplication, division
 
 Clean Interface: Modern dark theme with professional styling
